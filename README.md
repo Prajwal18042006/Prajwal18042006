@@ -18,8 +18,8 @@
   <a href="https://github.com/prajwal18042006">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://leetcode.com/prajwaljagtap18-04-2006/">
-    <img src="https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  <a href="">
+   
   </a>
   <a href="mailto:prajwaljagtap977@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
