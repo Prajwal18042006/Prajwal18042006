@@ -167,14 +167,19 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- LeetCode Activity / Heatmap (Active Days) -->
-<img src="https://leetcode-stats-api.herokuapp.com/prajwaljagtap18-04-2006?theme=Dark" alt="LeetCode Activity"/>
+<!-- LeetCode Stats via alfa-leetcode-api (actively maintained) -->
+<img src="https://leetcode-stats.vercel.app/api?username=prajwaljagtap18-04-2006&theme=Dark" alt="LeetCode Stats"/>
 
 <br/><br/>
 
-<!-- LeetCode Badge -->
+<!-- LeetCode Solved Badge (working endpoint) -->
 <a href="https://leetcode.com/prajwaljagtap18-04-2006/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fprajwaljagtap18-04-2006&logo=leetcode&logoColor=yellow" alt="LeetCode Problems Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Solved&query=$.solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fprajwaljagtap18-04-2006&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+</a>
+&nbsp;
+<!-- Active Days Badge via shields endpoint -->
+<a href="https://leetcode.com/prajwaljagtap18-04-2006/">
+  <img src="https://img.shields.io/badge/LeetCode-Active%20Daily%20Coder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Active"/>
 </a>
 
 </div>
