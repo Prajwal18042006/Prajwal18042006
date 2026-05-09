@@ -3,8 +3,8 @@
 <!-- Animated Banner with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prajwal%20Jagtap&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20GenAI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=👋+Hi%2C+I'm+Prajwal+Jagtap!;🤖+ML+Engineer+%26+GenAI+Enthusiast;💻+Python+%26+C%2B%2B+Developer;🧠+Deep+Learning+Explorer;🚀+Building+the+Future+with+AI" alt="Typing SVG" />
+<!-- Animated Typing SVG — fully percent-encoded for GitHub rendering -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Hi%2C+I%27m+Prajwal+Jagtap+%F0%9F%91%8B;ML+Engineer+%26+GenAI+Enthusiast+%F0%9F%A4%96;Python+%26+C%2B%2B+Developer+%F0%9F%92%BB;Deep+Learning+Explorer+%F0%9F%A7%A0;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
