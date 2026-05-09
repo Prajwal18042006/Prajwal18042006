@@ -162,24 +162,22 @@ me.say_hi()
 
 <div align="center">
 
-<!-- LeetCode Stats Card -->
+<!-- LeetCode Card — most stable service -->
 <img src="https://leetcard.jacoblin.cool/prajwaljagtap18-04-2006?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 
 <br/><br/>
 
-<!-- LeetCode Stats via alfa-leetcode-api (actively maintained) -->
-<img src="https://leetcode-stats.vercel.app/api?username=prajwaljagtap18-04-2006&theme=Dark" alt="LeetCode Stats"/>
-
-<br/><br/>
-
-<!-- LeetCode Solved Badge (working endpoint) -->
+<!-- LeetCode solved count badges (shields.io — 100% reliable) -->
 <a href="https://leetcode.com/prajwaljagtap18-04-2006/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Solved&query=$.solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fprajwaljagtap18-04-2006&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+  <img src="https://img.shields.io/badge/Solved-408%2F3920-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode Solved"/>
 </a>
 &nbsp;
-<!-- Active Days Badge via shields endpoint -->
 <a href="https://leetcode.com/prajwaljagtap18-04-2006/">
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Daily%20Coder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Active"/>
+  <img src="https://img.shields.io/badge/LeetCode-Daily%20Coder-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode Daily"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/prajwaljagtap18-04-2006/">
+  <img src="https://img.shields.io/badge/Profile-View%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode Profile"/>
 </a>
 
 </div>
@@ -190,19 +188,20 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prajwal18042006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<!-- github-readme-stats — use anuraghazra's official deployment -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prajwal18042006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal18042006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal18042006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal18042006&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<!-- GitHub Streak — use git.io/streak-stats (more stable than herokuapp) -->
+<img src="https://streak-stats.demolab.com?user=prajwal18042006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- WakaTime / Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal18042006&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph"/>
+<!-- Activity Graph — vercel deployment (stable) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal18042006&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" alt="Contribution Graph"/>
 
 </div>
 
